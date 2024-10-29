@@ -111,17 +111,28 @@ Definitions of:
 - Accessibility: The quality of being easy to use or obtain; usable easily by everyone
 
 **Accessibility**
-Considering that there is a large array of disabilities I belive my game will be suitable for most people. 
 
-Consideration: Will your project be usable by people of all abilities?
-Guidance: Ensure your project includes features like subtitles, alternative controls, or visual adjustments to accommodate users with disabilities.
+Considering that there is a large array of disabilities I belive my game will be suitable for most people. In order to achieve this, I will implement certain features such as customizable controls, subtitles, and visual adjustments to accommodate users with varying disabilities. This approach will encourage inclusivity and also expand the audience for my game, allowing everyone to enjoy the experience.
 
 **Privacy and Data Protection**
-Ensuring the privacy of all users and protecting all stored data will be a priority while creating this game. The game will only store and record game-related data (eg. high scores, best times and progress) and no personally identifiable information will be collected. All the acquired data will be stored locally on the user's device to minimise any online threats and risks such as hacking, transmission, etc. The terms and conditions and privacy policy will be shown to all users when they first join ther game. Once they understand this information and give full informed consent, they be allowed to play the game.
+
+Ensuring the privacy of all users and protecting all stored data will be a priority when creating this game. The game will only store and record game-related data (eg. high scores, best times and progress) and no personally identifiable information will be collected. All the acquired data will be stored locally on the user's device to minimise any online threats and risks such as hacking, transmission, etc. The terms and conditions and privacy policy will be shown to all users when they first join ther game. Once they understand this information and give fully informed consent, they be allowed to play the game. Users will also have the option to delete any recorded data at any time througout their experience. 
 
 **Fairness and Representation**
-My game will not have any stereotypes or bias towards any gender, race or culture. There will only be one main character and throughout their experience users will be able to customise their character according their personal choices. The scenarios used will be diverse and vary to ensure that there is no discrimation and everyone in represented in a proper manner. This will provide each gender, race and culture with a non-bias representation and will prevent any misunderstandings.
+
+My game will not have any stereotypes or bias towards any gender, race or culture. There will only be one main character and throughout their experience users will be able to customise their character according their personal choices. The scenarios used will be diverse and vary to ensure that there is no discrimation and everyone in represented in a proper manner. This will provide each gender, race and culture with a non-bias representation and will prevent any misunderstandings, also promoting social awareness.
 
 **Mental and Emotional Well-Being**
 
+Users' mental health will be given significant consideration when making this game. To ensure that everyone is fully enjoying the experience, the game will avoid distressing content, excessive violence, and manipulative techniques. Instead, the aim is to create a positive and supportive environment that encourages players to try their best without feeling overwhelmed. Players will also have the option to log off the game at any time and if they choose, they can also get reminders through the game to take regular breaks. 
+
 **Cultural Sensitivities**
+
+In order to respect and acknowledge cultural differences, if there are any culturally related symbols, themes, and narratives included in my game, I will be informed about their meaning and use. This be a measure taken to not offend or misrepresent any groups. This will essential for creating a experience that appreciates the diversity of the audience.
+
+## *Researching and Planning*
+### **Exploration of Existing Ideas**
+
+**PMI Table**
+
+![PMI Table](PMI%20table.PNG)
