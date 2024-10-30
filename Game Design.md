@@ -136,3 +136,85 @@ In order to respect and acknowledge cultural differences, if there are any cultu
 **PMI Table**
 
 ![PMI Table](PMI%20table.PNG)
+
+### **Flowchart and Pseudocode***
+
+**Pseudocode**
+
+*User interaction*
+
+BEGIN Movement
+	INPUT userInput
+	IF 'Left arrow key' pressed or 'Left swipe' THEN
+		Move player left
+	ELSE IF 'Right arrow key' pressed or 'Right swipe' THEN
+		Move player right
+	ELSE IF 'Spacebar' pressed or 'Screen tapped' THEN
+		IF player touching ground THEN
+			Move player up
+	ELSE
+		Don't move player
+  ENDIF
+END Movement
+
+BEGIN Collison
+	INPUT userInput
+	IF player collides with obstacle THEN
+		Remove one life
+	ELSE IF player collides with coin THEN
+		Update coin count
+	ELSE
+		Continue the game
+  ENDIF
+END Collison
+
+*Scoring and Feedback*
+
+BEGIN Highscore
+	INPUT userInput
+	IF player collides with obstacle THEN
+		Decrease high score by 10
+  ELSE IF player avoids obstacle THEN
+	  Increase high score by 20
+  ELSE IF player collides with coin THEN
+	  Increase high score by 20
+  ELSE
+	  Don't change the high score
+  ENDIF
+END Highscore
+
+BEGIN Sounds
+	INPUT userInput
+	IF player collides with obstacle THEN
+		Play a sad sound
+  ELSE IF player avoids obstacle THEN
+	  Play a uplifting sound
+  ELSE IF player collides with coin THEN
+	  Display a cool animation
+  ELSE
+  ENDIF
+	Continue the game
+
+END Sounds
+
+*Level Progression or Simulation Stages*
+
+BEGIN Progression
+  INPUT userInput
+	IF player completes level successfully THEN
+		Give the option to move forward, retry or exit
+	ELSE
+		Only provide the option to retry or exit
+  ENDIF
+END Progression
+
+*Saving and Loading Data*
+
+BEGIN Saving
+	INPUT userInput
+	IF user wants to delete all data THEN:
+		Delete all data properly
+	ELSE
+		Save all data locally on device
+	ENDIF
+END Saving
