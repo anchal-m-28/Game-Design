@@ -143,6 +143,8 @@ In order to respect and acknowledge cultural differences, if there are any cultu
 
 *User interaction*
 
+![Movement]()
+
 BEGIN Movement
 	INPUT userInput
 	IF 'Left arrow key' pressed or 'Left swipe' THEN
