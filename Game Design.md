@@ -185,6 +185,8 @@ In order to respect and acknowledge cultural differences, if there are any cultu
 
 **Storyboards**
 
+![Whole game story](Game_storyboard.png)
+
 ![Splash screen](splash_screen.png)
 
 ![Splash screen inventory](splash_screen_inventory.png)
