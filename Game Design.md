@@ -143,32 +143,9 @@ In order to respect and acknowledge cultural differences, if there are any cultu
 
 *User interaction*
 
-![Movement]()
+![Movement](Movement.png)
 
-BEGIN Movement
-	INPUT userInput
-	IF 'Left arrow key' pressed or 'Left swipe' THEN
-		Move player left
-	ELSE IF 'Right arrow key' pressed or 'Right swipe' THEN
-		Move player right
-	ELSE IF 'Spacebar' pressed or 'Screen tapped' THEN
-		IF player touching ground THEN
-			Move player up
-	ELSE
-		Don't move player
-  ENDIF
-END Movement
 
-BEGIN Collison
-	INPUT userInput
-	IF player collides with obstacle THEN
-		Remove one life
-	ELSE IF player collides with coin THEN
-		Update coin count
-	ELSE
-		Continue the game
-  ENDIF
-END Collison
 
 *Scoring and Feedback*
 
