@@ -182,3 +182,31 @@ In order to respect and acknowledge cultural differences, if there are any cultu
 *Saving and Loading Data*
 
 ![Saving](saving_flowchart.png)
+
+**Storyboards**
+
+![Splash screen](splash_screen.png)
+
+![Splash screen inventory](splash_screen_inventory.png)
+
+![Help and instructions](help_and_instructions.png)
+
+![Help and instructions inventory](help_and_instructions_inventory.png)
+
+![How to play](how_to_play.png)
+
+![How to play inventory](how_to_play_inventory.png)
+
+![Play](play.png)
+
+![Play inventory](play_inventory.png)
+
+![All levels](all_levels.png)
+
+![All levels inventory](all_levels_inventory.png)
+
+![Level 1](level_1.png)
+
+![Level 1 inventory](level_1_inventory.png)
+
+**Gnatt chart**
