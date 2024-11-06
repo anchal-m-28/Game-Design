@@ -165,20 +165,20 @@ In order to respect and acknowledge cultural differences, if there are any cultu
 
 *User interaction*
 
-![Movement]()
+![Movement](movementflowchart.png)
 
-![Collison]()
+![Collison](collison flowchart.png)
 
 *Scoring and Feedback*
 
-![Highscore]()
+![Highscore](highscore flowchart.png)
 
-![Sounds]()
+![Sounds](sounds flowchart.png)
 
 *Level Progression or Simulation Stages*
 
-![Progression]()
+![Progression](progression flowchart.png)
 
 *Saving and Loading Data*
 
-![Saving]()
+![Saving](saving.png)
