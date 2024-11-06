@@ -210,3 +210,5 @@ In order to respect and acknowledge cultural differences, if there are any cultu
 ![Level 1 inventory](level_1_inventory.png)
 
 **Gnatt chart**
+
+![Gnatt chart](gnatt_chart.png)
