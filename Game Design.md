@@ -160,3 +160,25 @@ In order to respect and acknowledge cultural differences, if there are any cultu
 *Saving and Loading Data*
 
 ![Saving](saving.png)
+
+**Flowcharts**
+
+*User interaction*
+
+![Movement]()
+
+![Collison]()
+
+*Scoring and Feedback*
+
+![Highscore]()
+
+![Sounds]()
+
+*Level Progression or Simulation Stages*
+
+![Progression]()
+
+*Saving and Loading Data*
+
+![Saving]()
